@@ -1,10 +1,10 @@
 # Benfords-law-as-detector-in-environmental-seismology
 Applied Benford's law (BL) as mass movement detector in seismic signals
 
-**Part A: codes**
+**Part A (branch-main): codes**
 the function for calculateing BL releated features
 
-**Part B: results**
+**Part B (branch-files) : results**
 applied BL as dedector to the Illgraben debris flow events
 
 
